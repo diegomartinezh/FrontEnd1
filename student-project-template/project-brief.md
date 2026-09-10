@@ -1,9 +1,9 @@
 # Portfolio Brief - Ilustración Aplicada
 
-**Estudiante:** [Tu Nombre]  
-**Handle:** @[tu-github-username]  
+**Estudiante:** [Diego Martinez Herrero]  
+**Handle:** @[diegomartinezh]  
 **Curso:** WEB ATELIER (UDIT) · Ilustración Aplicada: Productos Digitales Web-App  
-**Fecha actualización:** [Última actualización]
+**Fecha actualización:** [10/09/2026]
 
 ---
 
